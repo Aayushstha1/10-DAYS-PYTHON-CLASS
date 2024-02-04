@@ -1,7 +1,7 @@
 import math
 
 def advanced_calculator():
-    print("Advanced Calculator")
+    print(" Calculator")
 
     while True:
         expression = input("Enter an expression (or 'exit' to quit): ")
