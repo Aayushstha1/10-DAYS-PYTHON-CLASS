@@ -11,7 +11,7 @@ def advanced_calculator():
             break
 
         try:
-            result = eval(expression)
+            result = eval(expression)+
             print("Result:", result)
         except Exception as e:
             print("Error:", e)
