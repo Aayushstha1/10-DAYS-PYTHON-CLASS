@@ -7,7 +7,7 @@ def advanced_calculator():
         expression = input("Enter an expression (or 'exit' to quit): ")
 
         if expression.lower() == 'exit':
-            print("Exiting calculator.Goodbye & Thanks!")
+            print("Exiting calculator.Goodbye and Thanks!")
             break
 
         try:
