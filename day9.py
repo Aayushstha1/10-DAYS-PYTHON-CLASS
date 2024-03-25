@@ -6,7 +6,7 @@ def generate_art(width, height):
         row = ''
         for _ in range(width):
             # Generate a random ASCII character
-            char = chr(random.randint(32, 126))  # ASCII range of printable characters
+            char = chr(random.randint(32, 126))  # ASCII range of printable character
             row += char
         art += row + '\n'
     return art
