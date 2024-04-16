@@ -9,6 +9,8 @@ def generate_friend_compliment(friend_name):
         f"Your kindness is truly remarkable, {friend_name}!",
         f"{friend_name}, you make friendship feel effortless!",
         f"I'm grateful to have a friend like you, {friend_name}!",
+        f"Fuck you, {friend_name}!",
+
     ]
     return random.choice(compliments)
 
