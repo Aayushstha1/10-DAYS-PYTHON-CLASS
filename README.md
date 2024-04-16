@@ -1,3 +1,2 @@
 ﻿# 7-DAYS-PYTHON-CLASS.
-
-you can easy leran from my code also
+you can easy learn from my code also
